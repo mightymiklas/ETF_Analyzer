@@ -1,5 +1,5 @@
 # Passive Investing Into ETFs Analyzer.
-	-This application is composed of data visualization, including dat aggregation, and interactive visualizations, to find viable investment opportunities.
+	-This application is composed of data visualization, including data aggregation, and interactive visualizations, to find viable investment opportunities.
 ---
 
 ## Technologies
